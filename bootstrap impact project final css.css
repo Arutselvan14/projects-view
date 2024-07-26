@@ -1,13 +1,24 @@
+
+
 #s1hh:hover{
     color: #ffffff;
 }
+
+#arrup{
+    padding: 12px 15px;
+    border-radius: 25px;
+    background-color: #008374;
+    color: #ffffff;
+}
+
+#s1hh{}
 
 #shf{
     font-weight: 500;
 }
 
 .btn1{
-    height: 55px;
+    height: 50px;
     width: 165px;
     border: 1px solid rgb(49,155,143);
     border-radius: 30px;
@@ -32,14 +43,24 @@
     box-shadow: 1px 1px 17px 1px #e7e3e3;
 }
 
+.btn1:hover{
+
+    border: 1px rgb(127,193,185) solid;
+}
+
 #iconv1:hover{
 
-    color:
+    color: white;
 }
 
 #iconv1{
     text-decoration: none;
 }
+
+/* #wthvdo{
+    
+} */
+
 .box{
     border-radius: 5px;
     background-color: #008374;
